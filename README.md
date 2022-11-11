@@ -1,24 +1,13 @@
-# pokemon-app
+# Pokedex
 
-## Project setup
+Practice vue3 by making a pokedex from using the pokemon API.
+
+## To set up
 ```
 yarn install
 ```
 
-### Compiles and hot-reloads for development
+### To run it
 ```
 yarn serve
 ```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
